@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sunrise Sport</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+    <meta name="viewport" content="width=device-width">
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+  <body>
+    <header>
+      <ul>
+        <li><a href="#">Daily Football news</a></li>
+<li><a href="#">SUNRISE SPORT</a></li>
+
+      </ul>
+    </header>
+    <%= yield %>
+    <footer>
+      <p>Operating company SUNRISE Co</p>
+      <p>© 2021-2022 Editor Mulugeta Wale, email: mulugeta2030@gmail.com</p>
+    </footer>
+  </body>
+</html>
