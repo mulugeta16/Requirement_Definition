@@ -31,7 +31,5 @@ https://docs.google.com/spreadsheets/d/1n72B83FMXgeeID2V18crmOEeo3iknO3X/edit#gi
 https://cacoo.com/diagrams/FW48kEfblpg24pyS/E2C9F
 # Screen Transition Diagram
 https://cacoo.com/diagrams/aEc6uXkb3o5GSrca/E4DAE
-# Wireframe
-https://cacoo.com/diagrams/DILkFSNDDFeJQvsQ/D7E47
 # Checklist
 https://docs.google.com/spreadsheets/d/15xlqVzfTXPpUewA7L6_9zrFxidtqkCBg/edit#gid=599536468
