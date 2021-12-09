@@ -23,15 +23,14 @@ $ rails db:migrate
 
 $ rails s
 # Catalog Design
-https://docs.google.com/spreadsheets/d/1-IFy0236T4wTH0xCbIIEGpB_usFwh2yf/edit#gid=627437216
+https://docs.google.com/spreadsheets/d/13hPFf2yI1o4J1TfBHZL9xgFVAF0oM-KX/edit?usp=sharing&ouid=104409455330971252437&rtpof=true&sd=true
 # Table Definition Document
-https://docs.google.com/spreadsheets/d/1n72B83FMXgeeID2V18crmOEeo3iknO3X/edit#gid=1506773106
+https://docs.google.com/spreadsheets/d/1n72B83FMXgeeID2V18crmOEeo3iknO3X/edit?usp=sharing&ouid=104409455330971252437&rtpof=true&sd=true
 # ER Diagram
-![image](https://user-images.githubusercontent.com/87424772/144817984-ad7772b7-2131-471f-b8b8-cb0c21f59dc6.png)
 https://cacoo.com/diagrams/FW48kEfblpg24pyS/E2C9F
 # Screen Transition Diagram
 https://cacoo.com/diagrams/aEc6uXkb3o5GSrca/E4DAE
 # Wireframe
 https://cacoo.com/diagrams/DILkFSNDDFeJQvsQ/D7E47
 # Checklist
-https://docs.google.com/spreadsheets/d/15xlqVzfTXPpUewA7L6_9zrFxidtqkCBg/edit#gid=599536468
+https://docs.google.com/spreadsheets/d/1w_BL-KSKUwc6LDvIvTBNSXbsWSTsA1Ll/edit?usp=sharing&ouid=104409455330971252437&rtpof=true&sd=true
