@@ -9,7 +9,8 @@ Comment function
 Catalog Design
 Mark Down
 # Technology outside the curiculum
-Ransack
+CKeditor
+Ajax
 # Execution procedure
 $ git clone  https://github.com/mulugeta16/Requirement_Definition.git
 
