@@ -3,14 +3,11 @@ Development Language
 Ruby 3.0.1
 Rails 6.1.4.1
 # Employmemnt Term Technology
-Blog function
-Login function
-Comment function
-Catalog Design
-Mark Down
+- DEVISE
+- Comment function
 # Technology outside the curiculum
-CKeditor
-Ajax
+- CKeditor
+- RAMSACK
 # Execution procedure
 $ git clone  https://github.com/mulugeta16/Requirement_Definition.git
 
