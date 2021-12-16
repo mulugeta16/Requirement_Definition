@@ -6,7 +6,6 @@ Rails 6.1.4.1
 - DEVISE
 - Comment function
 # Technology outside the curiculum
-- CKeditor
 - RAMSACK
 # Execution procedure
 $ git clone  https://github.com/mulugeta16/Requirement_Definition.git
